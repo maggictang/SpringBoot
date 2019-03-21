@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "name": "home",
+      "type": "com.springboot.property.HomeProperty",
+      "sourceType": "com.springboot.property.HomeProperty"
+    }
+  ],
+  "properties": [
+    {
+      "name": "home.city",
+      "type": "java.lang.String",
+      "description": "城市",
+      "sourceType": "com.springboot.property.HomeProperty"
+    },
+    {
+      "name": "home.desc",
+      "type": "java.lang.String",
+      "description": "描述",
+      "sourceType": "com.springboot.property.HomeProperty"
+    },
+    {
+      "name": "home.province",
+      "type": "java.lang.String",
+      "description": "省份",
+      "sourceType": "com.springboot.property.HomeProperty"
+    }
+  ],
+  "hints": []
+}

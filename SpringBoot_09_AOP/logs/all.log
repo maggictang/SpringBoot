@@ -1,0 +1,12 @@
+2019-03-20 16:11:53,225  INFO WebLogAspect:35 - URL：http://127.0.0.1:8080/hello
+2019-03-20 16:11:53,227  INFO WebLogAspect:36 - HTTP_METHOD：GET
+2019-03-20 16:11:53,227  INFO WebLogAspect:37 - IP：127.0.0.1
+2019-03-20 16:11:53,335  INFO WebLogAspect:38 - CLASS_METHOD : com.springboot.controller.HelloController.hello
+2019-03-20 16:11:53,336  INFO WebLogAspect:39 - ARGS : [didi]
+2019-03-20 16:11:53,347  INFO WebLogAspect:44 - RESPONSE：Hellodidi
+2019-03-20 16:15:13,444  INFO WebLogAspect:34 - URL：http://127.0.0.1:8080/hello
+2019-03-20 16:15:13,445  INFO WebLogAspect:35 - HTTP_METHOD：GET
+2019-03-20 16:15:13,446  INFO WebLogAspect:36 - IP：127.0.0.1
+2019-03-20 16:15:13,447  INFO WebLogAspect:37 - CLASS_METHOD : com.springboot.controller.HelloController.hello
+2019-03-20 16:15:13,460  INFO WebLogAspect:38 - ARGS : [didi]
+2019-03-20 16:15:13,463  INFO WebLogAspect:43 - RESPONSE：Hellodidi
