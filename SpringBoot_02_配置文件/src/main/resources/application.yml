@@ -1,5 +1,0 @@
-## 键值冒号后面必须空一格
-## 多环境配置
-spring:
-  profiles:
-    active: dev
